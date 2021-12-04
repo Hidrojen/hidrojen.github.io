@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64mm" height="64mm" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <filter id="filter2582" x="-1.08e-5" y="-1.08e-5" width="1" height="1" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.209091e-05"/>
+  </filter>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g>
+  <text transform="scale(.86452 1.1567)" x="33.886608" y="28.609676" fill="#000000" font-family="sans-serif" font-size="3.347px" stroke-width=".083672" style="line-height:1.25" xml:space="preserve"><tspan x="33.886608" y="28.609676" fill="#ffffff" stroke-width=".083672">dev</tspan></text>
+  <circle transform="rotate(90)" cx="47.551" cy="-51.184" r="4.9091" fill="#0f4c75" style="paint-order:stroke fill markers"/>
+  <path d="m21.167 54.693c-4.2177-2.1324-7.8305-5.4459-10.319-9.464-2.4882-4.0181-3.8445-8.7289-3.8739-13.455-0.029392-4.7261 1.2682-9.4533 3.7063-13.502 2.4381-4.0487 6.0093-7.4069 10.2-9.5916 0.18957-0.098824 0.38037-0.1953 0.57233-0.28939" fill="none" stroke="#0f4c75" stroke-linecap="round" stroke-width="3.5811"/>
+  <path d="m42.62 54.693c4.2177-2.1324 7.8305-5.4459 10.319-9.464 2.4882-4.0181 3.8445-8.7289 3.8739-13.455s-1.2682-9.4533-3.7063-13.502c-2.4381-4.0487-6.0093-7.4069-10.2-9.5916-0.18957-0.098824-0.38037-0.1953-0.57233-0.28939" fill="none" stroke="#0f4c75" stroke-linecap="round" stroke-width="3.5811"/>
+  <circle transform="rotate(90)" cx="31.638" cy="-32.095" r="4.9091" fill="#0f4c75" style="paint-order:stroke fill markers"/>
+  <circle transform="rotate(90 -35.141 -36.011)" cx="48.514" cy="-122.34" r="2.4545" fill="#fff" fill-rule="evenodd" filter="url(#filter2582)" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>
